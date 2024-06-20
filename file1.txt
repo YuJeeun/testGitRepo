@@ -1,3 +1,5 @@
 workspace에서 작성한 file1의 첫번째 문장
 
 workspace에서 file1을 수정1
+
+clonespace에서 file1을 수정1
